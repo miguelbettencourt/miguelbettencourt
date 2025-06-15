@@ -1,5 +1,5 @@
-# 👋 Hello!
-## My name is Miguel Bettencourt. I’m an Electrical and Computer Engineer specialized in Control, Robotics, and AI. 
+# 👋 Hello! My name is Miguel Bettencourt. 
+## <img src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png" alt="IST Logo" width="25" style="vertical-align: middle;"/> I’m an Electrical and Computer Engineer specialized in Control, Robotics, and AI. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miguel-bettencourt/)  
 
@@ -26,7 +26,7 @@
 
 ## Experience
 
-### **Software Engineer** @ Millennium BCP  
+### <img src="https://companieslogo.com/img/orig/BCP.LS-3c259cf2.png" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Software Engineer** @ Millennium BCP  
 `Feb 2024 – Present | Lisbon, Portugal`  
 **GenAI Metadata Services & Fraud Detection**  
 - Developed GenAI-powered microservices for metadata enrichment using C# and .NET  
@@ -35,7 +35,7 @@
 - Delivered a real-time fraud detection service integrating multiple rule-based engines  
 - Wrote internal documentation and onboarding guides for microservices and packages
 
-### **Masters Thesis Student** @ Instituto Superior Técnico (DSOR Lab)  
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9aptEksqxl8k7qms0b3WCTm3mZdj7bJsLW8MahvUyja_nSu6fBIQ95vFdLSfZ-_Xb5I&usqp=CAU" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Masters Thesis Student** @ Instituto Superior Técnico (DSOR Lab)  
 `Sep 2021 – Sep 2023 | Lisbon, Portugal`  
 **Autonomous Underwater Vehicle Navigation and Control**  
 - Researched cooperative control strategies for MEDUSA-class AUVs operating in offshore environments  
