@@ -1,4 +1,5 @@
-# 👋 Hello, my name is Miguel Bettencourt, and I’m an Electrical and Computer Engineer specialized in Control, Robotics, and AI
+# 👋 Hello!
+## My name is Miguel Bettencourt. I’m an Electrical and Computer Engineer specialized in Control, Robotics, and AI. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miguel-bettencourt/)  
 
@@ -19,6 +20,9 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1c1c1c?&logo=Git)
+![Bash](https://img.shields.io/badge/-Bash-1c1c1c?&logo=gnubash)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+
 
 ## Experience
 
@@ -37,7 +41,7 @@
 - Researched cooperative control strategies for MEDUSA-class AUVs operating in offshore environments  
 - Developed a signal strength (RSSI)-based model for short-range optical communication  
 - Enhanced Cooperative Path Following (CPF) algorithms with Extremum Seeking Control (ESC) to dynamically align optical links in real time  
-- Achieved significant reduction in coordination error through a hybrid (acoustic + optical) bimodal communication framework  
+- Achieved significant reduction in coordination error through a hybrid (acoustic + optical) bimodal communication configuration  
 - Improved communication reliability and speed for peer-to-peer underwater data exchange using dynamic alignment of optical systems
 
 
@@ -46,9 +50,11 @@
   `OCEANS 2023`  
   Joint control and communication strategies for multi-robot underwater using bimodal communication networks
 
-## My Toolbox
-**Languages:** C# • Python • SQL • Bash • Matlab • LaTex
+## 📖 Currently Learning
 
-**Frameworks:** .NET • Kafka • Docker • ROS  
+![DeepLearning.AI](https://img.shields.io/badge/-DeepLearning.AI-1c1c1c?logo=deeplearning.ai) - Foundations of Data Engineering: [Data Engineering Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/data-engineering)  
 
-- Professional Inquiry: [LinkedIn](https://www.linkedin.com/in/miguel-bettencourt/)
+---
+
+> _"The best way to predict the future is to invent it."_  
+> — Alan Kay
