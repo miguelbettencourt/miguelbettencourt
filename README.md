@@ -36,7 +36,7 @@
 - Wrote internal documentation and onboarding guides for microservices and packages
 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9aptEksqxl8k7qms0b3WCTm3mZdj7bJsLW8MahvUyja_nSu6fBIQ95vFdLSfZ-_Xb5I&usqp=CAU" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Masters Thesis Student** @ Instituto Superior Técnico (DSOR Lab)  
-`Sep 2021 – Sep 2023 | Lisbon, Portugal`  
+`Sep 2021 – Nov 2023 | Lisbon, Portugal`  
 **Autonomous Underwater Vehicle Navigation and Control**  
 - Researched cooperative control strategies for MEDUSA-class AUVs operating in offshore environments  
 - Developed a signal strength (RSSI)-based model for short-range optical communication  
