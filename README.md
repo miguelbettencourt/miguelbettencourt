@@ -34,7 +34,7 @@
 ## Publications
 - **[Cooperative Navigation and Control of Multiple Autonomous Marine Vehicles using Bimodal Acoustic/Optical Communication Networks](https://ieeexplore.ieee.org/document/10682241)**  
   `OCEANS 2023`  
-  Joint control and communication strategies for multi-robot underwater networks
+  Joint control and communication strategies for multi-robot underwater using bimodal communication networks
 
 ## My Toolbox
 **Languages:** C# • Python • SQL • Bash • Matlab • LaTex
