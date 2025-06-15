@@ -50,9 +50,9 @@
   `OCEANS 2023`  
   Joint control and communication strategies for multi-robot underwater using bimodal communication networks
 
-## 📖 Currently Learning
+## Currently Learning
 
-![DeepLearning.AI](https://img.shields.io/badge/-DeepLearning.AI-1c1c1c?logo=deeplearning.ai) - Foundations of Data Engineering: [Data Engineering Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/data-engineering)  
+![DeepLearning.AI](https://img.shields.io/badge/-DeepLearning.AI-1c1c1c?logo=deeplearning.ai)  - 📖 Foundations of Data Engineering: [Data Engineering Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/data-engineering)  
 
 ---
 
