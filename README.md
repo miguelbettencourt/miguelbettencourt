@@ -2,13 +2,23 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miguel-bettencourt/)  
 
-## Technologies
+## Technologies, Libraries & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-1c1c1c?&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-1c1c1c?&logo=NumPy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-1c1c1c?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-1c1c1c?&logo=Seaborn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-1c1c1c?&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-1c1c1c?&logo=Keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-1c1c1c?&logo=OpenCV)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-1c1c1c?&logo=scikit-learn)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ## Experience
 
