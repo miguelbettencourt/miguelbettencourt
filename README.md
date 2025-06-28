@@ -29,7 +29,7 @@
 ### <img src="https://companieslogo.com/img/orig/BCP.LS-3c259cf2.png" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Software Engineer** @ Millennium BCP  
 `Feb 2024 – Present | Lisbon, Portugal`  
 **GenAI Metadata Services & Fraud Detection**  
-- Developed GenAI-powered microservices for metadata enrichment using C# and .NET  
+- Developed a GenAI-powered microservice for metadata enrichment using C# .NET  
 - Designed retry pipelines with dead-letter queues and evaluation metrics  
 - Automated data assets metadata tagging, glossary term assignments, and entity descriptions  
 - Delivered a real-time fraud detection service integrating multiple rule-based engines  
