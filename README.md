@@ -26,23 +26,11 @@
 
 ## Experience
 
-### <img src="https://companieslogo.com/img/orig/BCP.LS-3c259cf2.png" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Software Engineer** @ Millennium BCP  
+### <img src="https://companieslogo.com/img/orig/BCP.LS-3c259cf2.png" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Data & AI Engineer** @ Millennium BCP  
 `Feb 2024 – Present | Lisbon, Portugal`  
-**GenAI Metadata Services & Fraud Detection**  
-- Developed a GenAI-powered microservice for metadata enrichment using C# .NET  
-- Designed retry pipelines with dead-letter queues and evaluation metrics  
-- Automated data assets metadata tagging, glossary term assignments, and entity descriptions  
-- Delivered a real-time fraud detection service integrating multiple rule-based engines  
-- Wrote internal documentation and onboarding guides for microservices and packages
 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9aptEksqxl8k7qms0b3WCTm3mZdj7bJsLW8MahvUyja_nSu6fBIQ95vFdLSfZ-_Xb5I&usqp=CAU" alt="Mill Logo" width="30" style="vertical-align: middle;"/> **Masters Thesis Student** @ Instituto Superior Técnico (DSOR Lab)  
-`Sep 2021 – Nov 2023 | Lisbon, Portugal`  
-**Autonomous Underwater Vehicle Navigation and Control**  
-- Researched cooperative control strategies for MEDUSA-class AUVs operating in offshore environments  
-- Developed a signal strength (RSSI)-based model for short-range optical communication  
-- Enhanced Cooperative Path Following (CPF) algorithms with Extremum Seeking Control (ESC) to dynamically align optical links in real time  
-- Achieved significant reduction in coordination error through a hybrid (acoustic + optical) bimodal communication configuration  
-- Improved communication reliability and speed for peer-to-peer underwater data exchange using dynamic alignment of optical systems
+`Sep 2021 – Nov 2023 | Lisbon, Portugal` 
 
 
 ## Publications
